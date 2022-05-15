@@ -59,4 +59,4 @@
 
 Запуск бота:
         
-        python3 main.py
+    python3 main.py
