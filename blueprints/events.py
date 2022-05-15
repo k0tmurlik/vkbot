@@ -6,7 +6,7 @@ from vkbottle.dispatch.rules import *
 bp = Blueprint("events")
 bp.labeler.vbml_ignore_case = True
 
-beseda_logs = 2000000002
+beseda_logs = 2000000002 #беседа для оповещений о событиях в группе
 
 @bp.on.raw_event(GroupEventType.GROUP_JOIN, dataclass=GroupTypes.GroupJoin)
 async def group_join_handler(event: GroupTypes.GroupJoin):
