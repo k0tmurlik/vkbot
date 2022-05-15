@@ -56,3 +56,7 @@
                 MusicToken = "" # Токен Vk Me 
 
         Ctrl + X и затем Y чтобы сохранить
+
+Запуск бота:
+        
+        python3 main.py
