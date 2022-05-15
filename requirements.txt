@@ -1,0 +1,11 @@
+wheel
+youtube-search-python
+simpleeval
+wikipedia
+aiofiles
+vkbottle
+qrcode
+loguru
+psutil
+py-cpuinfo
+pillow

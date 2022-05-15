@@ -1,0 +1,2 @@
+TokenBot = ""
+MusicToken = ""
